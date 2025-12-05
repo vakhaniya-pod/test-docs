@@ -1,5 +1,5 @@
 ---
-title: Create a pet
+title: Create a new pet
 api:
   file: test.json
   operationId: createPets
